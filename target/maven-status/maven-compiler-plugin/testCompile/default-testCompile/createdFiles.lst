@@ -1,0 +1,7 @@
+starter\pages\CartPage.class
+starter\CucumberTestSuite.class
+starter\pages\LoginPage.class
+starter\pages\CheckoutPage.class
+starter\stepdefinition\LoginStepdefs.class
+starter\stepdefinition\CartStepdefs.class
+starter\stepdefinition\CheckoutStepdefs.class

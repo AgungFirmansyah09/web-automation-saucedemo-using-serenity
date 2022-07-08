@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login - saucedemo.com","User Login Successfully","SUCCESS","2022-07-08T14:21:44.393+07:00[Asia/Bangkok]","0.0","6.2"
+"Login - saucedemo.com","User Login Unsuccessfully","SUCCESS","2022-07-08T14:21:51.397+07:00[Asia/Bangkok]","0.0","3.42"
+"Add to Cart product","user successfully add cart product","SUCCESS","2022-07-08T14:21:55.481+07:00[Asia/Bangkok]","0.0","4.41"
+"Add to Cart product","user successfully checkout product in cart","SUCCESS","2022-07-08T14:22:00.612+07:00[Asia/Bangkok]","0.0","6.21"

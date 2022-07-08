@@ -1,0 +1,4 @@
+# Created at 2022-07-08T14:21:42.691
+Boot Manifest-JAR contains absolute paths in classpath 'D:\AUTOMATION TEST\WEB\web-automation-saucedemo-with-serenity\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
