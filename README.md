@@ -1,4 +1,4 @@
-# web-automation-kompas-using-serenity
+# web-automation-Saucedemo.com-using-serenity
 
 ## Hello Everyone!
 This is web automation testing in website **[saucedemo.com](https://www.saucedemo.com/inventory.html)** here I will explain about the procedures for making automation testing with serenity.
